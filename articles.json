@@ -1,0 +1,327 @@
+[
+    {
+      "id": 1,
+      "title": "The Rise of AI in Everyday Life",
+      "excerpt": "Exploring how artificial intelligence is reshaping daily tasks.",
+      "thumbnail": "https://timescale.ghost.io/blog/content/images/2024/07/A-Brief-History-of-AI_cover.jpg",
+      "readingTime": "5 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-01"
+    },
+    {
+      "id": 2,
+      "title": "5G Technology: What It Means for the Future",
+      "excerpt": "5G is the future of mobile networks. We explore how 5G technology will shape the future of communication and data transfer.",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-82427129,imgsize-1917851,width-1200,height=765,overlay-ettelecom/view-5g-is-our-only-chance-to-grow.jpg",
+      "readingTime": "6 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-02"
+    },
+    {
+      "id": 3,
+      "title": "The Impact of Blockchain Technology",
+      "excerpt": "Blockchain is transforming industries. This article explores its impact on finance, healthcare, and beyond.",
+      "thumbnail": "https://media.licdn.com/dms/image/D4D12AQEHQ814RmYXPg/article-cover_image-shrink_720_1280/0/1714623837231?e=2147483647&v=beta&t=FafDRthGb9toIS5UpUK3tW8Au-TOKBImgM9Ou0OL4kU",
+      "readingTime": "7 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-03"
+    },
+    {
+      "id": 4,
+      "title": "How Virtual Reality is Changing the Gaming Industry",
+      "excerpt": "Virtual reality is revolutionizing gaming. This article explores how VR is creating immersive gaming experiences.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7OVN_hZFTnle6sRHtmItx4Ot20fOTKhB5tw&s",
+      "readingTime": "5 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-04"
+    },
+    {
+      "id": 5,
+      "title": "The Role of Big Data in Decision Making",
+      "excerpt": "Big data is reshaping decision-making in businesses. Learn how data analytics is helping organizations improve strategies.",
+      "thumbnail": "https://www.c-sharpcorner.com/article/what-is-big-databig-data/Images/bigdata_Fotolia_41468665_small.jpg",
+      "readingTime": "6 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-05"
+    },
+    {
+      "id": 6,
+      "title": "Artificial Intelligence: The Future of Automation",
+      "excerpt": "AI is leading the charge in automation across industries. Discover how AI is transforming work environments.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-M_r7bEyuBQzUODeKwobumjZ2bnoB_uelw&s",
+      "readingTime": "7 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-06"
+    },
+    {
+      "id": 7,
+      "title": "The Rise of Quantum Computing",
+      "excerpt": "Quantum computing promises groundbreaking advancements. This article explores the future of quantum computing.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSecpQm7U9gaEERb0-4I7Hn_iSKlxlyluvngQ&s",
+      "readingTime": "6 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-07"
+    },
+    {
+      "id": 8,
+      "title": "The Impact of Augmented Reality in Retail",
+      "excerpt": "Augmented reality is revolutionizing the retail industry. Learn how AR is changing the shopping experience.",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*S8aT0HfsYQ5XkWC48wV4NA.jpeg",
+      "readingTime": "5 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-08"
+    },
+    {
+      "id": 9,
+      "title": "How the Internet of Things (IoT) is Shaping Our Lives",
+      "excerpt": "IoT is connecting everything from smart homes to healthcare devices. Discover how IoT is impacting everyday life.",
+      "thumbnail": "https://assets-blog.syniverse.com/2023/06/28111839/computer-g9fafa31ff_1280-1024x766.jpg",
+      "readingTime": "6 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-09"
+    },
+    {
+      "id": 10,
+      "title": "Cloud Computing: What You Need to Know",
+      "excerpt": "Cloud computing is reshaping data management for businesses. This article covers the basics and benefits of cloud computing.",
+      "thumbnail": "https://emeritus.org/wp-content/uploads/2023/12/cloud-computing-skills-1024x536.png",
+      "readingTime": "5 min read",
+      "category": "Technology",
+      "lastEdited": "2025-01-10"
+    },
+    {
+      "id": 11,
+      "title": "How to Manage Stress Effectively",
+      "excerpt": "Stress can negatively impact your health. Learn strategies to manage stress and improve your well-being.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCBZS_zwEb8gz-5LwcKC46bayI1ygYnxc8g&s",
+      "readingTime": "4 min read",
+      "category": "Health",
+      "lastEdited": "2025-01-03"
+    },
+    {
+      "id": 12,
+      "title": "Sleep: The Key to Better Health",
+      "excerpt": "Quality sleep is essential for good health. Discover the importance of sleep and tips for improving sleep hygiene.",
+      "thumbnail": "https://hbr.org/resources/images/article_assets/2022/10/A_Oct22_06_mental-health_1058086058.jpg",
+      "readingTime": "5 min read",
+      "category": "Health",
+      "lastEdited": "2025-01-04"
+    },
+    {
+      "id": 13,
+      "title": "How to Stay Motivated to Work Out",
+      "excerpt": "Staying motivated to exercise can be tough. This article shares tips to help you stay on track with your fitness goals.",
+      "thumbnail": "https://www.drbhosalekartik.com/wp-content/uploads/2023/03/7-Reasons-Why-Regular-heart-Health-Check-is-Important.jpg",
+      "readingTime": "5 min read",
+      "category": "Health",
+      "lastEdited": "2025-01-05"
+    },
+    {
+      "id": 14,
+      "title": "Mental Health Awareness: How to Take Care of Your Mind",
+      "excerpt": "Mental health is just as important as physical health. Learn how to nurture your mental well-being.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYqOWcjR6zTvfAas4ff8RDyN811rnZVoJwQ&s",
+      "readingTime": "6 min read",
+      "category": "Health",
+      "lastEdited": "2025-01-06"
+    },
+    {
+      "id": 15,
+      "title": "How to Build Healthy Relationships",
+      "excerpt": "Healthy relationships are essential for mental and emotional health. Learn how to create and maintain positive relationships.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0rIR0I6DGcyyjgayUkWnys9yYqc9_ry4iZw&s",
+      "readingTime": "5 min read",
+      "category": "Health",
+      "lastEdited": "2025-01-07"
+    },
+    {
+      "id": 16,
+      "title": "The Power of Meditation for Stress Relief",
+      "excerpt": "Meditation can alleviate stress and improve your health. This article explains how meditation can help you feel better.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NwB5VEfToTztXf9xw0IO7dKR6Yd7-CsMJg&s",
+      "readingTime": "4 min read",
+      "category": "Health",
+      "lastEdited": "2025-01-08"
+    },
+    {
+      "id": 17,
+      "title": "The Role of Nutrition in Mental Health",
+      "excerpt": "What you eat impacts your mental health. Learn how nutrition choices can boost your mood and mental clarity.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQz4YUF07_QpGFGyYclRYvsBerfQyRBy07Q&s",
+      "readingTime": "6 min read",
+      "category": "Health",
+      "lastEdited": "2025-01-09"
+    },
+    {
+      "id": 18,
+      "title": "Understanding and Preventing Heart Disease",
+      "excerpt": "Heart disease is a leading cause of death. Learn how to prevent it and maintain cardiovascular health.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKY9V4-DLuYBsDHmAdWt_f4XkJo-tT0PZBoQ&s",
+      "readingTime": "5 min read",
+      "category": "Health",
+      "lastEdited": "2025-01-10"
+    },
+    {
+      "id": 19,
+      "title": "The Best Destinations for Solo Travelers",
+      "excerpt": "Solo travel is growing in popularity. Discover the best destinations for those traveling alone.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfeQEfsuNFN30EObu3WOA9cSl6Qo6FBOGz8A&s",
+      "readingTime": "5 min read",
+      "category": "Travel",
+      "lastEdited": "2025-01-02"
+    },
+    {
+      "id": 20,
+      "title": "How to Travel on a Budget",
+      "excerpt": "Travel doesn't have to be expensive. This article shares tips for traveling on a budget without sacrificing comfort.",
+      "thumbnail": "https://www.fibe.in/_next/image/?url=https%3A%2F%2Faltcont.fibe.in%2Fwp-content%2Fuploads%2F2019%2F04%2FBudget-Travel.jpg&w=3840&q=75",
+      "readingTime": "6 min read",
+      "category": "Travel",
+      "lastEdited": "2025-01-03"
+    },
+    {
+      "id": 21,
+      "title": "Top 10 Hidden Gems for Nature Lovers",
+      "excerpt": "Discover some of the most beautiful and lesser-known destinations for nature enthusiasts.",
+      "thumbnail": "https://damoclesjournal.com/wp-content/uploads/2022/02/0x0.jpg",
+      "readingTime": "5 min read",
+      "category": "Travel",
+      "lastEdited": "2025-01-04"
+    },
+    {
+      "id": 22,
+      "title": "Luxury Travel: How to Experience the Best in the World",
+      "excerpt": "Luxury travel offers a unique experience. Learn how to enjoy the finest accommodations and experiences around the globe.",
+      "thumbnail": "https://etimg.etb2bimg.com/photo/94676301.cms",
+      "readingTime": "6 min read",
+      "category": "Travel",
+      "lastEdited": "2025-01-05"
+    },
+    {
+      "id": 23,
+      "title": "Solo Travel Safety Tips",
+      "excerpt": "Solo travelers should be extra cautious. These safety tips will ensure you have a safe and enjoyable trip.",
+      "thumbnail": "https://flyingsquirrelholidays.com/wp-content/uploads/2021/04/suitcase.jpg",
+      "readingTime": "5 min read",
+      "category": "Travel",
+      "lastEdited": "2025-01-06"
+    },
+    {
+      "id": 24,
+      "title": "Adventure Travel: Best Destinations for Thrill Seekers",
+      "excerpt": "If you're looking for an adrenaline rush, these destinations will provide unforgettable adventure experiences.",
+      "thumbnail": "https://www.travelturtle.world/wp-content/uploads/2024/03/6585d85934a171a9a052c170_traveling-based-on-fare-deals.jpeg",
+      "readingTime": "6 min read",
+      "category": "Travel",
+      "lastEdited": "2025-01-07"
+    },
+    {
+      "id": 25,
+      "title": "Exploring Sustainable Travel Options",
+      "excerpt": "Sustainable travel is gaining traction. This article explores eco-friendly travel options to minimize your carbon footprint.",
+      "thumbnail": "https://www.airindia.com/adobe/dynamicmedia/deliver/dm-aid--b272e89d-5320-4d67-9a0b-8ac809ada8eb/baggage-guidelines.webp",
+      "readingTime": "5 min read",
+      "category": "Travel",
+      "lastEdited": "2025-01-08"
+    },
+    {
+      "id": 26,
+      "title": "Starting Your Own Business: A Step-by-Step Guide",
+      "excerpt": "Starting a business can be challenging, but with the right approach, it’s possible. This guide walks you through each step.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iXiVHxJdepZ9PormoKMWyP-9oWCnqkXrkw&s",
+      "readingTime": "7 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-03"
+    },
+    {
+      "id": 27,
+      "title": "How to Create a Winning Business Plan",
+      "excerpt": "A solid business plan is essential for success. Learn the key components that will help you craft a winning plan.",
+      "thumbnail": "https://images.business.com/app/uploads/2011/06/12131215/Leadership-Skills.png",
+      "readingTime": "6 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-04"
+    },
+    {
+      "id": 28,
+      "title": "Effective Time Management for Entrepreneurs",
+      "excerpt": "Time management is crucial for entrepreneurs. Learn how to prioritize tasks and stay productive.",
+      "thumbnail": "https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/images/panoramic/getty_180152187_970679970450042_64007.jpg",
+      "readingTime": "5 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-05"
+    },
+    {
+      "id": 29,
+      "title": "Marketing Strategies Every Business Should Use",
+      "excerpt": "Effective marketing strategies can make or break a business. Discover the best strategies for success.",
+      "thumbnail": "https://www.investopedia.com/thmb/ejUMpcr5pOzEIkw5FekHv4E5-f0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1210536688-f8aa4c9c1ace4e348e2bcd5e267fdbb3.jpg",
+      "readingTime": "7 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-06"
+    },
+    {
+      "id": 30,
+      "title": "How to Build a Strong Brand Identity",
+      "excerpt": "A strong brand identity can drive your business’s success. Learn how to create a brand that resonates with customers.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC4sGND6mUDEQQCrL06GfClXvRRKOvFQfLg&s",
+      "readingTime": "5 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-07"
+    },
+    {
+      "id": 31,
+      "title": "Financial Management Tips for Small Businesses",
+      "excerpt": "Good financial management is key to any successful business. Learn tips for managing your small business finances.",
+      "thumbnail": "https://emeritus.org/wp-content/uploads/2023/02/a11-1.png",
+      "readingTime": "6 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-08"
+    },
+    {
+      "id": 32,
+      "title": "Navigating the World of E-commerce",
+      "excerpt": "E-commerce offers tremendous opportunities. This article explains how to get started in the world of online business.",
+      "thumbnail": "https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-Pod-Learn-Business-English.jpg",
+      "readingTime": "5 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-09"
+    },
+    {
+      "id": 33,
+      "title": "How to Scale Your Business Successfully",
+      "excerpt": "Scaling a business is an exciting challenge. Learn the best strategies for scaling your business to new heights.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_AHBnT5RzSvdl4UVWuEYr1fmwxjPRDGfuxg&s",
+      "readingTime": "6 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-10"
+    },
+    {
+      "id": 34,
+      "title": "Understanding the Power of Networking in Business",
+      "excerpt": "Networking is one of the most powerful tools for business growth. Learn how to network effectively.",
+      "thumbnail": "https://media.geeksforgeeks.org/wp-content/uploads/20230518174051/Business-Studies-copy.webp",
+      "readingTime": "5 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-11"
+    },
+    {
+      "id": 35,
+      "title": "How to Create a Culture of Innovation in Your Business",
+      "excerpt": "Innovation is key to business success. Learn how to foster a culture of innovation within your organization.",
+      "thumbnail": "https://www.freshbooks.com/wp-content/uploads/2022/03/how-long-does-it-take-business-to-be-successful.jpg",
+      "readingTime": "7 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-12"
+    },
+    {
+      "id": 36,
+      "title": "The Future of Remote Work",
+      "excerpt": "Remote work is here to stay. Explore the future of remote work and how businesses can adapt.",
+      "thumbnail": "https://localiq.com/wp-content/uploads/2021/08/how-to-write-a-business-description-localiq-feature.png",
+      "readingTime": "6 min read",
+      "category": "Business",
+      "lastEdited": "2025-01-13"
+    }
+  ]
+  
